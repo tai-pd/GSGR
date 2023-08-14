@@ -1,0 +1,6 @@
+framework module ussd_service {
+  umbrella header "ussd_service-umbrella.h"
+
+  export *
+  module * { export * }
+}

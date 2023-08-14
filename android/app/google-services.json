@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "485008138870",
+    "firebase_url": "https://gsgr-94f2d-default-rtdb.firebaseio.com",
+    "project_id": "gsgr-94f2d",
+    "storage_bucket": "gsgr-94f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485008138870:android:9994827520887ee8323557",
+        "android_client_info": {
+          "package_name": "com.dnvn.gsgr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485008138870-dcg34v8ag7jhbfig0dl52gdvajbqfir9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dnvn.gsgr",
+            "certificate_hash": "a0b0d36e19141ddd073e508baa4a5786349a49ed"
+          }
+        },
+        {
+          "client_id": "485008138870-h1u2i534cv5m65a0cnd6rh4kgni25adg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dnvn.gsgr",
+            "certificate_hash": "ae7f97e01fb3ba5f1d1299b05e1afcbaca563a65"
+          }
+        },
+        {
+          "client_id": "485008138870-dflselqh5jchnlb28gami4pjmbvj6sl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCI5J5ORVeFtZBKmZP6K_7tFs7hmt3Dwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485008138870-dflselqh5jchnlb28gami4pjmbvj6sl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "485008138870-gjasitbqsl1v0s38ilfb46al62k2fkdk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dnvn.gsgr.t"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
